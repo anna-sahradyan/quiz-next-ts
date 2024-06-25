@@ -1,0 +1,117 @@
+@font-face {
+    font-family: 'Stolzl';
+    src: url('Stolzl-Light.eot');
+    src: url('Stolzl-Light.eot?#iefix') format('embedded-opentype'),
+        url('Stolzl-Light.woff2') format('woff2'),
+        url('Stolzl-Light.woff') format('woff'),
+        url('Stolzl-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Stolzl';
+    src: url('Stolzl-Regular.eot');
+    src: url('Stolzl-Regular.eot?#iefix') format('embedded-opentype'),
+        url('Stolzl-Regular.woff2') format('woff2'),
+        url('Stolzl-Regular.woff') format('woff'),
+        url('Stolzl-Regular.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Stolzl';
+    src: url('Stolzl-Medium.eot');
+    src: url('Stolzl-Medium.eot?#iefix') format('embedded-opentype'),
+        url('Stolzl-Medium.woff2') format('woff2'),
+        url('Stolzl-Medium.woff') format('woff'),
+        url('Stolzl-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Stolzl';
+    src: url('../fonts/Stolzl-Bold.eot');
+    src: url('../fonts/Stolzl-Bold.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/Stolzl-Bold.woff2') format('woff2'),
+        url('../fonts/Stolzl-Bold.woff') format('woff'),
+        url('../fonts/Stolzl-Bold.ttf') format('truetype');
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Playfair Display';
+    src: url('../fonts/PlayfairDisplay-Regular.eot');
+    src: url('../fonts/PlayfairDisplay-Regular.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/PlayfairDisplay-Regular.woff2') format('woff2'),
+    url('../fonts/PlayfairDisplay-Regular.woff') format('woff'),
+    url('../fonts/PlayfairDisplay-Regular.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Playfair Display';
+    src: url('../fonts/PlayfairDisplay-Bold.eot');
+    src: url('../fonts/PlayfairDisplay-Bold.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/PlayfairDisplay-Bold.woff2') format('woff2'),
+    url('../fonts/PlayfairDisplay-Bold.woff') format('woff'),
+    url('../fonts/PlayfairDisplay-Bold.ttf') format('truetype');
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Pramodia';
+    src: url('../fonts/Pramodia.eot');
+    src: url('../fonts/Pramodia.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/Pramodia.woff2') format('woff2'),
+    url('../fonts/Pramodia.woff') format('woff'),
+    url('../fonts/Pramodia.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Roboto-Regular';
+    src: url(./Roboto-Regular.woff) format('woff'),
+    url(./Roboto-Regular.woff2) format('woff2');
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Dosis-Regular';
+    src: url(./Dosis-Regular.woff) format('woff'),
+    url(./Dosis-Regular.woff2) format('woff2');
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Roboto-Regular';
+    src: url(./Roboto-Regular.woff) format('woff'),
+    url(./Roboto-Regular.woff2) format('woff2');
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Dosis-Regular';
+    src: url(./Dosis-Regular.woff) format('woff'),
+    url(./Dosis-Regular.woff2) format('woff2');
+    font-weight:500;
+    font-style: normal;
+    font-display: swap;
+}
+
+
